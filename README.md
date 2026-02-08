@@ -104,7 +104,7 @@ UpSchoolAIFirstDeveloper/
 ```
 
 ## 📽️ Demo Videosu:
-Dilerseniz demo videoma [buradan](https://drive.google.com/file/d/1axTT7jkcnEfGD1dkwhnaW6LPuzUyOhka/view?usp=drive_link) ulaşabilirsiniz!
+Dilerseniz demo videoma [buradan](https://www.youtube.com/watch?v=d5yqZBqrh0M) ulaşabilirsiniz!
 
 ## 👩‍💻 Geliştirici
 
